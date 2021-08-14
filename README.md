@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Stephanie Castro </h1>
-<h3 align="center">🚀 Data Science Student 🚀</h3>
-<p Sou estudante de tecnologia, atuando na área de qualidade de software como QA funcional em processo de migração para Data Science. Atualmente fazendo cursos de Python e Python para análise de dados, banco de dados e Power BI para Data Science. Me formei em analise e desenvolvimento de sistemas e estou à procura da primeira oportunidade para atuar na área de Data Science. </p>
+<h3 align="center">🚀 Sou estudante de tecnologia, atuando na área de qualidade de software como QA funcional e estou em processo de migração para Data Science. Estou atualmente fazendo cursos de Python e Python para análise de dados, banco de dados e Power BI para Data Science. Me formei em analise e desenvolvimento de sistemas e estou à procura da primeira oportunidade para atuar na área de Data Science. 🚀</h3>
 
 <br>
 
