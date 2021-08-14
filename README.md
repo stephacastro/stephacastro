@@ -18,4 +18,3 @@
 
 <br>
   
-![Snake animation](https://github.com/stephacastro/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
