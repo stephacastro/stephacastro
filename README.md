@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Stephanie Castro </h1>
-<h3 align="center">🚀 Sou estudante de tecnologia e me formei em análise e desenvolvimento de sistemas. Estou atuando na desenvolvimento de  como JR, faço, automação de tarefas, análise de dados com Python utilizando as bibliotecas Pandas, Matplotlib e Numpy fazendo conexão direta com banco de dados, auxílio nos processos de ETL e nas construções de dashboards com Power BI. Estudo Python para desenvolvimento com Django, banco de dados e Power BI. Conhecimentos em Jira, metodologias ágeis Scrum e Kanban. 🚀</h3>
+<h3 align="center">🚀 Sou estudante de tecnologia e me formei em análise e desenvolvimento de sistemas. Estou atuando na área de desenvolvimento como JR, faço, automação de tarefas, análise de dados com Python utilizando as bibliotecas Pandas, Matplotlib e Numpy fazendo conexão direta com banco de dados, auxílio nos processos de ETL e nas construções de dashboards com Power BI. Estudo Python para desenvolvimento com Django, banco de dados e Power BI. Conhecimentos em Jira, metodologias ágeis Scrum e Kanban. 🚀</h3>
 
 <br>
 
