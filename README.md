@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Stephanie Castro </h1>
-<h3 align="center"> Possuo experiência em programação em Python, com conhecimento em bancos de dados SQL (MySQL, PostgreSQL, Oracle) e NoSQL (MongoDB). Sou proficiente no uso de ferramentas de controle de versão como Git e especializado em automação de processos, otimizando fluxos de trabalho manuais. Além disso, tenho expertise em análise de dados e Business Intelligence, utilizando Power BI e Python, e sou familiarizado com metodologias Agile, incluindo Scrum, Kanban e Safe. </h3>
+<h3 align="center"> Possuo experiência em programação Python, com conhecimento em C# e JavaScript, API's, bancos de dados SQL e NoSQL . Sou proficiente no uso de ferramentas de controle de versão como Git e especializada em automação de processos, otimizando fluxos de trabalho manuais. Além disso, tenho expertise em análise de dados e Business Intelligence, utilizando Power BI e Python, e sou familiarizada com metodologias Agile, incluindo Scrum, Kanban e Safe.  </h3>
 
 <br>
 
